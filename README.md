@@ -1,13 +1,8 @@
-----------[PORT]----------
-- Created By Cable3
-- DO NOT REPRODUCE
-- PROTECTED UNDER APACHE V2 LICENSE
-- SEE LICENSE FILE
-- https://github.com/Im-Cable3/Voximus
-- Requires:
-  - Node v16+ https://nodejs.org/dist/v16.9.1/node-v16.9.1-x64.msi [Windows] | https://nodejs.org/dist/v14.17.6/node-v14.17.6-linux-armv7l.tar.xz [Linux ARMv7]
-  - discord.js [v13] https://www.npmjs.com/package/discord.js?source=post_page-----7b5fe27cb6fa
-  - enmap https://www.npmjs.com/package/enmap
-  - ms https://www.npmjs.com/package/ms
-  - pretty-ms https://www.npmjs.com/package/pretty-ms
-  - day.js http://www.npmjs.com/package/dayjs
+# Number Fifteen: The Bot
+Created by Cable3#0815, currently not available for public use.
+
+ ## Reporting an Issue
+Issues can be reported using the `Issue` tab in the bar above. If an issue has already been submitted, please do not submit another.
+
+## License Info
+Number Fifteen: The Bot is protected under the apache license v2. USe of code without permission is prohibited.
