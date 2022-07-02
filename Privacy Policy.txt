@@ -1,0 +1,76 @@
+If you choose to use this bot, the following data is collected
+Data collected and stored for users:
+Your Discord ID
+
+The following data is stored for guilds
+Guild ID
+
+The following data is user-inputted 
+Guild moderation channel data
+Guild moderation roles data
+These can be viewed at any time by using the settings command
+
+Data that is temporarily stored for users
+These are cleared when no longer needed
+Your presence/status data
+Your username and nickname
+Your current avatar
+Roles you have in a specific guild
+The date you joined Discord
+The date you joined a specific server
+
+Data that is temporarily stored for guilds
+These are cleared when no longer needed
+
+Guild Name
+Guild icon
+Guild member list
+Notification settings
+Partner/Verification Status
+2FA Mod requirement setting
+NSFW/Explicit settings
+Boost/Server Level Data
+Channel list and channel ID's
+Role list
+Emoji/sticker list
+Creation date
+
+Message Content
+Message content is temporarily stored for the execution of bot commands
+Required for basic bot functionality
+
+Data Privacy
+
+Only your server's name and member count are shared publicly
+All other data is not shared or distributed by any means. Only the data listed above is kept when 
+
+needed for bot functionality.
+Data is stored in our databases by Guild ID and User ID
+
+How long is data stored?
+Data is stored as long as needed for basic bot functionality
+However, all guild data is deleted upon removing the bot from the specific guild
+User data is kept until no longer needed by any command processes
+
+You can also clear all data by using about command and selecting the appropriate option
+
+
+Can I request a copy of my data?
+You can request a copy of all of your data, which can be done using
+the about command and selecting the request data button in any guild with the bot.
+Requesting data will show all databases in which your data is currently stored and
+the associated values and keys
+We cannot fetch locally cached data
+
+Can I opt-out of data collection?
+You can opt-out of data collection by using the about command and selecting the opt-out
+button in any guild with the bot.
+If you do not allow any of the data listed above to be stored, you will lose access to the bot
+and its features. You can request that your data be recollected by sending a DM to Cable3#1419
+This applies to both guild data and user data.
+
+
+A full copy of this privacy policy can be viewed at 
+sites.google.com/view/voximus/Privacy-Policy 
+
+Updated Novermber 22, 2021 at  11:18 PM  EST

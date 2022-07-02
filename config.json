@@ -1,0 +1,8 @@
+{
+  "Globalprefix": "ffs!",
+  "token": "[TOKEN GOES HERE]",
+  "Version": "[PORT] 2.3",
+  "ActivityStatus": "DEV MODE",
+  "clientId": "849077246518231080", //outdated, may remove in future update
+  "guildId": "844229517480558642" //outdated, may remove in future update
+}
